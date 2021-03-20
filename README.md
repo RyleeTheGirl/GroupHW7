@@ -14,9 +14,9 @@ Do you think unit testing is important? Why or why not?
 
 Name 3 key parts of the Observer pattern
 - 3 key parts of the Observer pattern are:
-  -The ability to create (register) and get rid of (unregister) an obersver object.
-  -The ability or method to notify the observer if there has been any change.
-  -The ability to listen or "observe" an object and recieve updates to be able to notify of changes.
+  - The ability to create (register) and get rid of (unregister) an obersver object.
+  - The ability or method to notify the observer if there has been any change.
+  - The ability to listen or "observe" an object and recieve updates to be able to notify of changes.
 
 When would you use the Observer pattern?  What problem does it solve?
 
