@@ -1,7 +1,7 @@
 # GroupHW7
 
 Describe any problems your group had writing the code
-
+- We had some difficulties in the start figuring out what needed to be changed (and walking through the code). This was easily resolved by talking through the logic steps, and looking at the various examples from previous examples.
 
 Did you change the classes that were tested?  Why or why not?
 
