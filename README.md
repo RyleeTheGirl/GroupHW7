@@ -9,6 +9,9 @@ We had some difficulties in the start figuring out what needed to be changed (an
 Yes, we did change the classes that were tested. We had to change the names of the methods because each animal had a different unique method name for each. We changed this so that the children classes matched and overrode the parent class methods. We also changed the Unit Test class so that it ran thorugh one if statement to test any animal instead of walking through each individual animal.
 
 
+Did you change the classes that were tested?  Why or why not?
+- Yes, we did change the classes that were tested. We had to change the names of the methods because each animal had a different unique method name for each. We changed this so that the children classes matched and overrode the parent class methods. We also changed the Unit Test class so that it ran thorugh one if statement to test any animal instead of walking through each individual animal.
+
 - Describe your team's solution.  Explain how it meets the criteria given.
 
 We have an abstract parent class that is then implemented by each 'child' animal class. The test class doesn't need to be edited to add on additional animals- you can just do that by creating a class with the correct methods.
@@ -31,7 +34,6 @@ Yes, as it helps resolve bugs/types on your code that can caush crashes/problems
 - When would you use the Observer pattern?  What problem does it solve?
 
 I would say that you would use the Observer pattern if you have many dependent relationships where there needs to be a notofication of any changes made. For example, you could use the Observer pattern if you have a class that is dependent on another class and needs to be notified of any changes because it is dependent on that class and these changes would directly impact it.
-
 
 - Name 3 key parts of the Strategy pattern
 
