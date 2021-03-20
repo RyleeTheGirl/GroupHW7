@@ -13,7 +13,7 @@ Do you think unit testing is important? Why or why not?
 - Yes, as it helps resolve bugs/types on your code that can caush crashes/problems at a later time. Its also a quick easy way to validate your code on a team, or check someone elses code works.
 
 Name 3 key parts of the Observer pattern
-3 key parts of the Observer pattern are:
+- 3 key parts of the Observer pattern are:
   -The ability to create (register) and get rid of (unregister) an obersver object.
   -The ability or method to notify the observer if there has been any change.
   -The ability to listen or "observe" an object and recieve updates to be able to notify of changes.
